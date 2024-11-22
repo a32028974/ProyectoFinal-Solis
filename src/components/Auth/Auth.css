@@ -1,0 +1,36 @@
+.auth {
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: 300px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.auth input {
+    width: 100%;
+    padding: 8px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.auth button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.auth p {
+    cursor: pointer;
+    color: #007bff;
+    margin-top: 10px;
+}
+
+.auth p:hover {
+    text-decoration: underline;
+}

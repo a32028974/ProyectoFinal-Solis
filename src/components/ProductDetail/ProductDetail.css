@@ -1,0 +1,33 @@
+.reviews {
+    margin-top: 20px;
+}
+
+.review {
+    border-top: 1px solid #ddd;
+    padding: 10px 0;
+}
+
+.add-review {
+    margin-top: 20px;
+}
+
+.add-review input, .add-review textarea {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.add-review button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.add-review button:hover {
+    background-color: #0056b3;
+}
